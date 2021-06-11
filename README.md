@@ -14,7 +14,7 @@ MHCoin - this is exactly what Duino-Coin should be
 | ⚒ Algorithms | DUCO-S1, XXHASH | DUCO-S1 |
 | ♐️ Rewards | Kolka | Truly fair Kolka (TFKlka) |
 | 🪙 Coin supply | Infinite | 100k | 
-| ⚡️ Difficulty | You can choose from several possible options | Same for all network (currently, after 2.0 - rewards calculated from difficulty only) | 
+| ⚡️ Difficulty | You can choose from several predefined options | Same for all network (currently, after 2.0 - rewards calculated from difficulty only) | 
 | High hashrate miners | Unfriendly (limitations) | Friendly (we allow you to use any device for mining) | 
 | Payout | Manual DUCO-Exchange, public exchanges | Automated withdraw to Monero/Bitcoin | 
 | Custom pools | ❌ | Running XBlocks on testnet, June public release |
